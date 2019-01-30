@@ -24,10 +24,14 @@ html {
   width: 100%;
 }
 
+img {
+  position: relative;
+}
+
 .banner {
 
 }
 
 .banner-content {
-
+  position: absolute;
 }
