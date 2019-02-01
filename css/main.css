@@ -25,13 +25,15 @@ html {
 }
 
 img {
-  position: relative;
+
 }
 
 .banner {
-
+  position: relative;
 }
 
 .banner-content {
+  color: #fff;
   position: absolute;
+  bottom: 0;
 }
