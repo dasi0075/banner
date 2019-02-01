@@ -25,15 +25,19 @@ html {
 }
 
 img {
-  max-width: auto;
+  max-width: 100%;
 }
 
 .banner {
   position: relative;
+  overflow: hidden;
+  max-height: 400px;
 }
 
 .banner-content {
   color: #fff;
   position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
   bottom: 0;
 }
