@@ -31,7 +31,7 @@ img {
 .banner {
   position: relative;
   overflow: hidden;
-  max-height: 450px;
+  max-height: 24em;
 }
 
 .banner-content {
